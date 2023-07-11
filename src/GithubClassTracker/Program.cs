@@ -8,6 +8,8 @@ namespace GithubClassTracker
                 .ConfigureServices(services =>
                 {
                     services.AddHostedService<Worker>();
+                    //services.AddTransient<YourNewClass>
+                    // transient, singleton, scoped
                 })
                 .Build();
 
