@@ -13,6 +13,7 @@ namespace @class
         {
 
             //this is a test file
+            \vcg=l.;ghp,;.n',m\
             
         }
     }
